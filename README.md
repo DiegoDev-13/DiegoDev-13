@@ -31,7 +31,7 @@ Software Developer focused on building robust web applications and design system
     </td>
     <td align="right" style="border: none;">
       <img src="https://cdn-icons-png.flaticon.com/512/3616/3616770.png" alt="Portfolio" height="40" width="40" valign="middle" />
-      <a href="https://x.com/diegomdev13">Portafolio</a>
+      <a href="https://diegomartinezdev.netlify.app/">Portafolio</a>
     </td>
   </tr>
 </table>
